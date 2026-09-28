@@ -168,6 +168,8 @@ sudo ufw status
 #### NOTE: If you're using AWS instance make sure that your security inbound group role has these two ports open
 ##### 3333, 80 and 1935
 
+[Anwar Hossain](https://anwar.com.bd)
+
 
  
 
